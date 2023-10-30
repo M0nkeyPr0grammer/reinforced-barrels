@@ -1,4 +1,4 @@
-![Reinforced Barrels updated by M0nkeyPr0grammer](./images/header.png)
+![Reinforced Barrels](./images/header.png)
 
 [![Mod Loader: Fabric](https://img.shields.io/static/v1?label=modloader&message=fabric&color=brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ![Mod Environment](https://img.shields.io/static/v1?label=environment&message=client%2Fserver&color=yellow)
@@ -7,7 +7,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/Tx85779b?color=%2300AF5C&logo=modrinth)](https://modrinth.com/mod/reinforced-barrels)
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
-# Reinforced Barrels
+# Reinforced Barrels adjusted by M0nkeyPr0grammer
 
 The Reinforced Barrels mod adds reinforced barrels.
 
