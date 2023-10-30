@@ -26,7 +26,7 @@ The Reinforced Barrels mod adds reinforced barrels.
 | Iron Barrel      | Shaped Crafting | Copper Barrel + Iron Ingot       | <img alt="Iron Barrel Recipe" src="./images/recipes/iron_barrel.png" width="256" />                    | An iron barrels has a container inventory with 54 slots.                                                |
 | Gold Barrel      | Shaped Crafting | Iron Barrel + Gold Ingot         | <img alt="Gold Barrel Recipe" src="./images/recipes/gold_barrel.png" width="256" />                    | A gold barrels has a container inventory with 81 slots.                                                 |
 | Diamond Barrel   | Shaped Crafting | Gold Barrel + Diamond            | <img alt="Diamond Barrel Recipe" src="./images/recipes/diamond_barrel.png" width="256" />              | A diamond barrels has a container inventory with 108 slots.                                             |
-| Netherite Barrel | Smithing        | Diamond Barrel + Netherite Ingot | <img alt="Netherite Barrel Recipe" src="./images/recipes/netherite_barrel_smithing.png" width="256" /> | A netherite barrel has a container inventory with 108 slots. This is resistant to blast, fire and lava. |
+| Netherite Barrel | Smithing        | Diamond Barrel + Netherite Ingot | <img alt="Netherite Barrel Recipe" src="./images/recipes/netherite_barrel_smithing.png" width="256" /> | A netherite barrel has a container inventory with 144 slots. This is resistant to blast, fire and lava. |
 
 ## Configure
 
